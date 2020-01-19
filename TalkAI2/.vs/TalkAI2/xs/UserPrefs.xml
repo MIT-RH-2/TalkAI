@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{6C2CE79A-0489-31C4-D427-CBB147532465}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyAudioProcessor.cs">
+    <Files>
+      <File FileName="Assets/MyAudioProcessor.cs" Line="77" Column="67" />
+      <File FileName="Assets/SavWav.cs" Line="41" Column="3" />
+      <File FileName="Assets/NRSDK/TalkAI_scripts/emotion_script.cs" Line="59" Column="1" />
+      <File FileName="Assets/controlScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TalkAI2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="NRSDK" expanded="True">
+                <Node name="Demos" expanded="True">
+                  <Node name="Record" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Emulator" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="TalkAI_scripts" expanded="True" />
+              </Node>
+              <Node name="MyAudioProcessor.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ef1e80c6-b8a2-4e71-8349-2514ce019749" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,4 @@
+#Sun Jan 19 10:27:00 EST 2020
+base.0=/Users/edo/hackathon/TalkAI2/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
